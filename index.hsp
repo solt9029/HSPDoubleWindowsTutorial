@@ -1,0 +1,11 @@
+screen 0
+
+screen 1
+
+button "test", *test
+
+stop
+
+*test
+	gsel 0
+	mes "test"
